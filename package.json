@@ -13,7 +13,7 @@
     "flow": "flow"
   },
   "dependencies": {
-    "react-native-blob-util": "^0.18.0"
+    "react-native-blob-util": "^0.19.9"
   },
   "devDependencies": {
     "flow-bin": "^0.108.0"
